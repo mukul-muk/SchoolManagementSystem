@@ -1,0 +1,16 @@
+h1{font-family: "arial", Times, serif;
+ color:orange;
+}
+form{font-family: "arial", Times, serif;
+ color:white;
+}
+p{font-family: "arial", Times, serif;
+ color:white;
+}
+
+body {
+ background-image: url("A2.jpg");
+background-repeat: no-repeat;
+background-size: 1700px 1000px;
+ 
+}

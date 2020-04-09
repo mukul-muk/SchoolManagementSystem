@@ -1,0 +1,10 @@
+p {
+  color: white;
+ font-family: "Arial", Times, serif;
+}
+body {
+ background-image: url("99.jpg");
+background-repeat: no-repeat;
+background-size: 1700px 600px;
+ 
+}
